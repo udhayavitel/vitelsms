@@ -1,3 +1,3 @@
 <?php 
-echo "My First Github Page";
+echo "My First Github Page Successfully Installed";
 ?>
